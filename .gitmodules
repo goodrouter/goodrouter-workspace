@@ -1,0 +1,8 @@
+[submodule "goodrouter-ts"]
+	path = goodrouter-ts
+	url = ../goodrouter-ts
+	ignore = all
+[submodule "goodrouter-rs"]
+	path = goodrouter-rs
+	url = ../goodrouter-rs
+	ignore = all
