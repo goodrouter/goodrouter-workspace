@@ -6,3 +6,6 @@
 	path = goodrouter-rs
 	url = ../goodrouter-rs
 	ignore = all
+[submodule "goodrouter-net"]
+	path = goodrouter-net
+	url = ../goodrouter-net
