@@ -5,6 +5,9 @@
         },
         {
             "path": "goodrouter-ts"
+        },
+        {
+            "path": "goodrouter-net"
         }
     ]
 }
