@@ -9,3 +9,4 @@
 [submodule "goodrouter-net"]
 	path = goodrouter-net
 	url = ../goodrouter-net
+	ignore = all
