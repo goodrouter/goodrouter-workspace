@@ -8,6 +8,9 @@
         },
         {
             "path": "goodrouter-net"
+        },
+        {
+            "path": "goodrouter-www"
         }
     ]
 }
