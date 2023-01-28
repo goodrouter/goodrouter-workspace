@@ -10,3 +10,7 @@
 	path = goodrouter-net
 	url = ../goodrouter-net
 	ignore = all
+[submodule "goodrouter-www"]
+	path = goodrouter-www
+	url = ../goodrouter-www
+	ignore = all
